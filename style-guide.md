@@ -30,3 +30,9 @@ The designs were created to the following widths:
 
 - Family: [Raleway](https://fonts.google.com/specimen/Raleway)
 - Weights: 400, 700
+
+### Solution
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/38456fa6-76d1-4558-aa8f-668210d46f3f/deploy-status)](https://app.netlify.com/sites/dazzling-payne-75b221/deploys)
+
+Preview it here: https://dazzling-payne-75b221.netlify.app/
